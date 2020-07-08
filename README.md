@@ -21,7 +21,6 @@
 ## Criss的blog地址：https://blog.csdn.net/crisschan  
 ## Criss微信公众号：测者陈磊   
 
-![](https://raw.githubusercontent.com/crisschan/pic_down/master/20200708131755.png)
 
 ![](https://raw.githubusercontent.com/crisschan/pic_down/master/20200708131755.png)
 
